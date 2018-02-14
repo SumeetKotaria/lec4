@@ -1,4 +1,8 @@
 Hello this is my programq
 Scooby dooby doo
 
+<<<<<<< HEAD
 all the best!!
+=======
+iwfiuwbfb
+>>>>>>> more
